@@ -1,0 +1,17 @@
+.mainBody{
+    background: #070707 !important;
+    
+}
+
+/* .desc{
+    line-height: 20px !important;
+} */
+
+@media screen and (min-width: 1920px) {
+    
+    .headerLogo {
+        margin-top: -100px !important;
+        margin-bottom: 150px !important;
+    }
+    
+}
